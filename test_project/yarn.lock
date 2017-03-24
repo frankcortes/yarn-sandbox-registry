@@ -13,6 +13,10 @@ foo@^1.0.0:
   version "1.0.0"
   resolved foo-1.0.0.tgz#943e0ec03df00ebeb6273a5b94b916ba54b47581
 
+"myownpackage@file:../offline_mirror/myownpackage-0.0.1.tgz":
+  version "0.0.1"
+  resolved "../offline_mirror/myownpackage-0.0.1.tgz#b782e29957132872bcaa00ad17be1b4d4fe0fedf"
+
 "optimist@~ 0.2.4":
   version "0.2.8"
   resolved optimist-0.2.8.tgz#e981ab7e268b457948593b55674c099a815cac31
