@@ -1,0 +1,12 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "this is the project that uses offline_mirror",
+  "main": "index.js",
+  "author": "frankcortes",
+  "license": "MIT",
+  "dependencies": {
+    "bar": "^0.1.2",
+    "foo": "^1.0.0"
+  }
+}
